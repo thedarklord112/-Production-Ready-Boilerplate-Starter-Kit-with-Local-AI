@@ -1,0 +1,2 @@
+# -Production-Ready-Boilerplate-Starter-Kit-with-Local-AI
+There are many examples using LangChain or OpenAI, but there is a lack of a clean repository that combines a backend framework (FastAPI, Node.js) with an AI running 100% locally (via Ollama) and a Docker configuration. So this repository includes an `docker-compose up`, and you have a code/word processor running privately, without API costs.
