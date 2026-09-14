@@ -1,0 +1,14 @@
+# Environment variables (Contains sensitive API keys)
+.env
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
